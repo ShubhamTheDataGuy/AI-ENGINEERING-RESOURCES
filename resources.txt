@@ -1,0 +1,31 @@
+ROADMAP
+https://github.com/ashishps1/learn-ai-engineering
+https://roadmap.sh/ai-engineer
+
+PROJECTS AND REPOS
+https://github.com/patchy631/ai-engineering-hub
+https://github.com/business-science/ai-data-science-team
+https://github.com/FareedKhan-dev/all-agentic-architectures
+https://github.com/towardsai/agent-course-notebooks
+https://github.com/DataExpert-io/ai-engineer-handbook
+https://github.com/Engineer1999/A-Curated-List-of-ML-System-Design-Case-Studies
+https://github.com/HandsOnLLM/Hands-On-Large-Language-Models
+https://github.com/google-gemini/gemini-skills
+
+YOUTUBE CHANNELS
+https://www.youtube.com/@AndrejKarpathy
+https://www.youtube.com/@sunnysavita10
+https://www.youtube.com/@campusx-official
+https://www.youtube.com/@krishnaik06
+https://www.youtube.com/@stanfordonline
+https://www.youtube.com/@mrdbourke
+
+CERTIFICATION
+AI-900
+AI-102
+
+BOOKS
+https://services.google.com/fh/files/misc/startup_technical_guide_ai_agents_final.pdf
+https://mlsysbook.ai/book/assets/downloads/Machine-Learning-Systems.pdf
+https://github.com/harvard-edge/cs249r_book
+
