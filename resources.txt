@@ -1,6 +1,7 @@
 ROADMAP
 https://github.com/ashishps1/learn-ai-engineering
 https://roadmap.sh/ai-engineer
+https://github.com/alexeygrigorev/ai-engineering-field-guide
 
 PROJECTS AND REPOS
 https://github.com/patchy631/ai-engineering-hub
