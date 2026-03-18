@@ -3,6 +3,9 @@ https://github.com/ashishps1/learn-ai-engineering
 https://roadmap.sh/ai-engineer
 https://github.com/alexeygrigorev/ai-engineering-field-guide
 
+LEARNING RESOURCE
+deeplearning.ai
+
 PROJECTS AND REPOS
 https://github.com/patchy631/ai-engineering-hub
 https://github.com/business-science/ai-data-science-team
